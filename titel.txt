@@ -1,0 +1,10 @@
+00_1b_05_11_20_ca.txt
+00_1b_05_11_20_ca_korr.txt
+10_1b_25_06_20_ca.txt
+10_1b_25_06_20_ca_korr.txt
+11_2a_25_06_20_ca.txt
+11_2a_25_06_20_ca_korr.txt
+12_3b_02_07_20_ca.txt
+12_3b_02_07_20_ca_korr.txt
+13_1a_02_07_20_ca.txt
+13_1a_02_07_20_ca_korr.txt
